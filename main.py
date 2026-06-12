@@ -44,6 +44,7 @@ def index():
         </head>
         <body>
             <h1>こんにちは！HTML!</h1>
+            <p>test</p>
         </body>
     </html>
     """
